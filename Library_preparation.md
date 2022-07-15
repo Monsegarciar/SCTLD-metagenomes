@@ -73,6 +73,7 @@ The protocol consists of 5 steps. Safe stopping points will be **indicated**.
    -  Add GO TO --> step 2 (5 reps)
    -  5 min at 65 ºC 
    -  Hold at 4 ºC
+   -  Lid temperature >100
    
 
 ### Cleanup of PCR reaction 
